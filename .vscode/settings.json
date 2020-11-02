@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "c:\\Users\\eduar\\enviroments\\cache\\Scripts\\python.exe",
+    "python.analysis.extraPaths": ["./cacheck", "./simulatools"],
+}
