@@ -1,3 +1,6 @@
 [submodule "caffeine"]
 	path = caffeine
 	url = https://github.com/leortyz/caffeine.git
+[submodule "simulatools"]
+	path = simulatools
+	url = https://github.com/leortyz/simulatools.git
